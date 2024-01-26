@@ -1,0 +1,5 @@
+##ignore properties file
+./backend/src/main/resources/application.properties
+./backend/build/*
+
+./ui/node_modules
